@@ -18,5 +18,9 @@
   "homepage": "https://github.com/cristiandelcidd/imageSizeChanger#readme",
   "keywords": [
     "imagesizechanger"
-  ]
+  ],
+  "devDependencies": {
+    "@types/node": "^16.11.6",
+    "typescript": "^4.4.4"
+  }
 }
