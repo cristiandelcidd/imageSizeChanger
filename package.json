@@ -1,6 +1,6 @@
 {
   "name": "imagesizechanger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Change the size of your images",
   "main": "index.js",
   "scripts": {
