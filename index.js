@@ -3,21 +3,22 @@ function imagesizechanger(options) {
 
   switch (options.size) {
     case "big":
-      options.imageSize = "300px";
+      options.imageSize = "100%";
       break;
     case "medium":
-      options.imageSize = "100px";
+      options.imageSize = "60%";
       break;
     case "small":
-      options.imageSize = "30px";
+      options.imageSize = "20%";
       break;
     default:
-      options.imageSize = "50px";
+      options.imageSize = "30%";
       break;
   }
 
   images.forEach((image) => {
     image.style.width = options.imageSize;
+    image.style.display = "block";
 
     if (options.margin) {
       image.style.margin = "20px auto";
