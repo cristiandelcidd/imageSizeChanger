@@ -1,0 +1,22 @@
+{
+  "name": "imagesizechanger",
+  "version": "1.0.0",
+  "description": "Change the size of your images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristiandelcidd/imageSizeChanger.git"
+  },
+  "author": "cristiandelcidd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cristiandelcidd/imageSizeChanger/issues"
+  },
+  "homepage": "https://github.com/cristiandelcidd/imageSizeChanger#readme",
+  "keywords": [
+    "imagesizechanger"
+  ]
+}
